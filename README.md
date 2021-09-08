@@ -2,10 +2,15 @@
 
 #######################################################################################################
  Script: Add SQL CIDR block into Storage Account- Azure
- Author: Ahmed Hussein - Microsoft 
+
+ Author: Ahmed Hussein - Microsoft
+ 
  Date: July 2020
+
  Version: 1.0
+
  References: 
+
  GitHub: 
 
  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF
